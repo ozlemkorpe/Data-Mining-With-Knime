@@ -1,4 +1,4 @@
-# knime-example-operations
+# Data-Mining-With-Knime
 Basic knime examples on three different datasets.
 
 This project contains basic data operations like filtering columns and rows, prediction from provided datasets, creating new column by calculating columns values.
